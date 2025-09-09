@@ -40,3 +40,7 @@ Install dependencies:
 >pip install -r requirements.txt
 
 **License**
+
+---
+
+ Would you like me to also make you a **requirements.txt** file (so you can run it directly in Colab or EC2) for this repo?
